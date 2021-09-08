@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw8Lt3ZwtX0fGPnHmxkxlVl59lj62SiCB4uVXsjbBLHul9yC2Ni/iFsdZsgPUWIFZ34HnE3H/HHPDM3z5+1AXw==",
+  "success": true,
+  "projectFilePath": "/home/augusto/Documentos/HttpAplication/HttpAplication.csproj",
+  "expectedPackageFiles": [
+    "/home/augusto/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
